@@ -1,0 +1,6 @@
+packer-plugin-qemu: copyright-without-copyright-notice
+packer-plugin-qemu: initial-upload-closes-no-bugs
+packer-plugin-qemu: no-manual-page
+packer-plugin-qemu: shared-library-lacks-prerequisites
+packer-plugin-qemu: statically-linked-binary
+packer-plugin-qemu: zero-byte-file-in-doc-directory

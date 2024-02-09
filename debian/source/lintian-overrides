@@ -1,0 +1,2 @@
+packer-plugin-qemu source: file-without-copyright-information
+packer-plugin-qemu source: no-debian-changes
